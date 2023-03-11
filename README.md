@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdnlogo.com/logo/solidity_63893.html"><img src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg" height="30" width="42" alt="solidity logo"
+  <img src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg" height="30" width="42" alt="solidity logo"
 </div>
 
 ###
