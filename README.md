@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -31,7 +30,7 @@
 ###
 
 <br clear="both">
-
-<img src="https://compile.blog/wp-content/uploads/2021/11/Web3-Icon-5.png" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://compile.blog/wp-content/uploads/2021/11/Web3-Icon-5.png" alt="Snake animation" />
+</div>
 ###
