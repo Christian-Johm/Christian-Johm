@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Christian-Johm/Christian-Johm/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://compile.blog/wp-content/uploads/2021/11/Web3-Icon-5.png" alt="Snake animation" />
 
 ###
