@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg" height="30" width="42" alt="solidity logo" />
-  <img src="https://flyclipart.com/ethereum-eth-icon-cryptocurrency-flat-iconset-christopher-downer-ethereum-png-738503" height="30" width="42" alt="eth logo" />
+  <img src="https://www.mediafire.com/file/d0czr1mz59xzrib/pngaaa.com-795572.png" height="30" width="42" alt="eth logo" />
 </div>
 
 ###
