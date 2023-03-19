@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg" height="30" width="42" alt="solidity logo" />
-  <img src="https://i.postimg.cc/KvyBBjX3/pngaaa-com-795572.png" height="30" width="42" alt="eth logo" />
 </div>
 
 ###
